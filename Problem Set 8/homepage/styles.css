@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+}
+.bold{
+    font-size:25pt;
+    color:white;
+    font-family:papyrus
+}
+.title{
+    font-size:40pt;
+    text-align:center;
+    text-decoration: none;
+    color:white;
+    font-family:Copperplate;
+}
+.text{
+
+    font-size:15pt;
+    color:white;
+    font-family: Arial;
+}
+.image{
+    height=400;
+}
+.special{
+    font-size:20pt;
+    color:white;
+    text-align:center;
+    font-family: "Lucida Console",;
+}
+b{
+    font-size:20pt;
+    color:white;
+}
+a:visited{
+    color:white;
+}
+A:hover{
+    color:red;
+}

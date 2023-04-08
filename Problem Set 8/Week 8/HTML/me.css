@@ -1,0 +1,40 @@
+table
+{
+    border : 8px solid black;
+}
+tr
+{
+    height : 50px;
+}
+td
+{
+background-color : #ffff00;
+color : #000080;
+font-size : 30pt;
+font-family : georgia;
+text-align : center;
+width : 50px;
+}
+body
+{
+    background-color : #bfbfbf
+}
+form
+{
+    font-size : 20pt;
+    font-family : "Garamond" ,serif ;
+    text-align : center;
+    height: 100px;
+
+}
+h2
+{
+    font-family : "Monaco",monospace;
+    text-align : left;
+
+}
+h1
+{
+    text-align : center;
+
+}

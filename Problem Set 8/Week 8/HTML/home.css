@@ -1,0 +1,18 @@
+.first{
+    color:blue;
+    font-size:50pt;
+    font-family:"Times New Roman","Times","serif";
+    }
+    .second{
+    color:orange;
+    font-size:40pt;
+    }
+    .third{
+    color:pink;
+    font-size:30pt;
+    }
+    .forth{
+    background-color:black;
+    text-align:center;
+    }
+
